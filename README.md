@@ -1,2 +1,2 @@
 # projetoBasesRust
- Repositório contendo programas que executam pequenos programas de Rust
+ Repositório contendo códigos que executam pequenos programas de Rust
